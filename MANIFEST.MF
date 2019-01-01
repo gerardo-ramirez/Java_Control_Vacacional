@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Create-By: Gerardo Ramirez;
+Main-Class: Bienvenida
+X-COMENT: Curso java
